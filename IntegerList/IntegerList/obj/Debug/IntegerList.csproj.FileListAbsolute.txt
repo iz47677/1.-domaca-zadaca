@@ -1,0 +1,6 @@
+c:\users\ivo\documents\visual studio 2015\Projects\IntegerList\IntegerList\bin\Debug\IntegerList.exe.config
+c:\users\ivo\documents\visual studio 2015\Projects\IntegerList\IntegerList\bin\Debug\IntegerList.exe
+c:\users\ivo\documents\visual studio 2015\Projects\IntegerList\IntegerList\bin\Debug\IntegerList.pdb
+c:\users\ivo\documents\visual studio 2015\Projects\IntegerList\IntegerList\obj\Debug\IntegerList.csprojResolveAssemblyReference.cache
+c:\users\ivo\documents\visual studio 2015\Projects\IntegerList\IntegerList\obj\Debug\IntegerList.exe
+c:\users\ivo\documents\visual studio 2015\Projects\IntegerList\IntegerList\obj\Debug\IntegerList.pdb
